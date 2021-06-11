@@ -1,6 +1,6 @@
 {
   "name": "@alotropico/dark-mode-attribute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very simple and lightweight utility to manage dark and light schemes from vanilla JavaScript. Call it with your button as a parameter and you're all set.",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/alotropico/dark-mode-attribute/issues"
   },
-  "homepage": "https://github.com/alotropico/dark-mode-attribute#readme"
+  "homepage": "https://github.com/alotropico/dark-mode-attribute#readme",
+  "dependencies": {}
 }

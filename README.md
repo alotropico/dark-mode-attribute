@@ -11,7 +11,7 @@ If they haven't, it looks for the user's system preference.
 ### Installation
 
 ```shell
-npm install --save-dev dark-mode-attribute
+npm i --save-dev @alotropico/dark-mode-attribute
 ```
 
 ### Usage
