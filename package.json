@@ -1,7 +1,7 @@
 {
   "name": "@alotropico/dark-mode-attribute",
   "version": "1.0.0",
-  "description": "Utility functions to manage dark and light themes from vanilla JavaScript, taking user's system preference as default, which can be overriden by local storage.",
+  "description": "Very simple and lightweight utility to manage dark and light schemes from vanilla JavaScript. Call it with your button as a parameter and you're all set.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
