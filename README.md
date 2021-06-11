@@ -19,7 +19,7 @@ npm i --save-dev @alotropico/dark-mode-attribute
 In your **JavaScript**, call dark-mode-attribute with your toggle-dark-mode element as a parameter:
 
 ```javascript
-@import * as dma from dark-mode-attribute
+import * as dma from '@alotropico/dark-mode-attribute'
 
 const toggleButton = document.querySelector('.my-button')
 

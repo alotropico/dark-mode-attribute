@@ -46,4 +46,4 @@ function updateStorage() {
     localStorage.setItem(storageName, encodeURIComponent(darkMode))
 }
 
-exports.setUp = setUp
+module.exports = setUp
