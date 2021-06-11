@@ -1,0 +1,31 @@
+{
+  "name": "@alotropico/dark-mode-attribute",
+  "version": "1.0.0",
+  "description": "Utility functions to manage dark and light themes from vanilla JavaScript, taking user's system preference as default, which can be overriden by local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alotropico/dark-mode-attribute.git"
+  },
+  "keywords": [
+    "dark",
+    "mode",
+    "light",
+    "mode",
+    "dark",
+    "theme",
+    "color",
+    "scheme",
+    "local",
+    "storage"
+  ],
+  "author": "alotropico <alotropico@gmail.com> (http://alotropico.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alotropico/dark-mode-attribute/issues"
+  },
+  "homepage": "https://github.com/alotropico/dark-mode-attribute#readme"
+}
